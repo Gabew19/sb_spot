@@ -1,0 +1,7 @@
+
+local cfg = {}
+
+cfg.blips = {
+
+
+}
